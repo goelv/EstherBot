@@ -1,7 +1,8 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Varun, a software developer turned entreprenuer in Mumbai.\n![esther](https://raw.githubusercontent.com/goelv/EstherBot/master/img/Varun%20Goel%20Photo%20LinkedIn.jpg)\n Want to know more about bots or learn about Varun? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Varun](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you set VarunBot up! Do you want to tell Varun that you're talking to his bot? %[Tell her](postback:twitter)",
-    "TELL HER": "Let's tweet @goelv so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
+    "BOT": "Hi there!\nI’m the personal bot of Varun, a software developer turned entreprenuer in Mumbai.\n![varun](https://raw.githubusercontent.com/goelv/EstherBot/master/img/Varun%20Goel%20Photo%20LinkedIn.jpg)\n Want to know more about bots or learn about Varun? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Varun](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
+    "HELLO": "Hey, I'm so glad you set VarunBot up! Do you want to tell Varun that you're talking to his bot? %[Tell him](postback:twitter)",
+    "TELL HIM": "Let's tweet @goelv so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://ctt.ec/IJ93a)",
+    "CAFE PATRON": "It's never too early for Cafe Patron: %[C PAT](www.cafepatron.com)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, VarunBot is back."
